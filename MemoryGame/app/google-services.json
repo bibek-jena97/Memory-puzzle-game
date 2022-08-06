@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881377797864",
+    "project_id": "memory-game-bf39f",
+    "storage_bucket": "memory-game-bf39f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881377797864:android:51c5e5feafe26c5f540b5d",
+        "android_client_info": {
+          "package_name": "com.bibekjena.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881377797864-bfdv4hj12u8fuum6d49pa0uu3ftb6icq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHIFSXcobl10TO9sGd6hS2fJjd7nh-fhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881377797864-bfdv4hj12u8fuum6d49pa0uu3ftb6icq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
